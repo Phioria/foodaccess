@@ -39,5 +39,5 @@ devtools::install_github("Phioria/foodaccess")
 
 ```{r example}
 library(foodaccess)
-#str(foodaccess)
+str(foodaccess)
 ```
