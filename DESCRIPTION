@@ -1,6 +1,6 @@
 Package: foodaccess
 Title: Provides the USDA Food Access Research Atlas Dataset
-Version: 0.0.0.9000
+Version: 0.0.0.9001
 Authors@R: 
     person("Chris", "Baugh", , "chris.baugh@gmail.com", role = c("aut", "cre"))
 Description:
